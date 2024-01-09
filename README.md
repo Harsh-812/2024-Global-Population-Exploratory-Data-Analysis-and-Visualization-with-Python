@@ -10,14 +10,16 @@ These population estimates and projections provide the standard and consistent s
 3. The ranking of each country and its dependencies is based on population size, as established by the United Nations.<br>
 4. The dataset is structured into nine columns, each containing specific information about each country and dependent territory.<br>
 <hr>
-**Columns utilized for analysis:**
-<br>
-**Country**: Names of 205 countries including dependent terroitories in the world<br>
-**Population_2024:** current population i.e population as of January 2024<br>
-**Population_2023:** population for the previous year i.e. 2022<br>
-**Area:** Area in kilometer square (km^2)<br>
-**Land Area:** Land area in km^2<br>
-**Density:** Population density i.e. people per sq. km of land area in /km^2<br>
-**Growth rate:** Annual growth rate where +ve and -ve signs show an increase and decrease in growth rates respectively<br>
-**World percentage:** share of each country in total world's population in terms of percentage<br>
-**Rank:** rank on the basis of population size, most populated country is assigned highest rank and so on<br>
+
+### Columns utilized for analysis:<br>
+
+**1. Country:**    Names of 205 countries including dependent terroitories in the world<br>
+**2. Population_2024:**    current population i.e population as of January 2024<br>
+**3. Population_2023:**    population for the previous year i.e. 2022<br>
+**4. Area:**    Area in kilometer square (km^2)<br>
+**5. Land Area:**    Land area in km^2<br>
+**6. Density:**    Population density i.e. people per sq. km of land area in /km^2<br>
+**7. Growth rate:**    Annual growth rate where +ve and -ve signs show an increase and decrease in growth rates respectively<br>
+**8. World percentage:**    share of each country in total world's population in terms of percentage<br>
+**9. Rank:**    rank on the basis of population size, most populated country is assigned highest rank and so on<br>
+
