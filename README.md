@@ -1,7 +1,7 @@
 # 2024 Global Population Exploratory Data Analysis with Python
 
 ### Project Overview
-This repository contains data, scripts, and visualizations for exploring and analyzing global population  data for the year 2024. The goal is to provide insightful visualizations and analysis of population demographics, growth patterns, and other relevant statistics.
+This repository contains data, scripts, and visualizations for exploring and analyzing global population  data for the year 2024 and 2023. The goal is to provide insightful visualizations and analysis of population demographics, growth patterns, and other relevant statistics.
 <hr>
 
 ### Tools and Technologies
